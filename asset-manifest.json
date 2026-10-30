@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Snacks-and-All/static/css/main.27c73850.css",
-    "main.js": "/Snacks-and-All/static/js/main.aa2a0bcc.js",
-    "static/js/453.419a5d54.chunk.js": "/Snacks-and-All/static/js/453.419a5d54.chunk.js",
-    "static/media/sliderImage2.jpg": "/Snacks-and-All/static/media/sliderImage2.f1cad6cf99d082c9810b.jpg",
-    "static/media/sliderImage3.png": "/Snacks-and-All/static/media/sliderImage3.0d7e3804023781a03ea8.png",
-    "static/media/sliderImage1.png": "/Snacks-and-All/static/media/sliderImage1.a097e696315d6d562831.png",
-    "static/media/sliderImage4.jpg": "/Snacks-and-All/static/media/sliderImage4.ed5c57f13e10c0547d6e.jpg",
-    "static/media/chips.png": "/Snacks-and-All/static/media/chips.ea1271103a6dccf6846a.png",
-    "static/media/noProducts.gif": "/Snacks-and-All/static/media/noProducts.d107966e6be89c69e455.gif",
-    "static/media/cookies.png": "/Snacks-and-All/static/media/cookies.19d87334a55c97cda2fd.png",
-    "static/media/candy.png": "/Snacks-and-All/static/media/candy.906a005a15a146a4dbb4.png",
-    "static/media/drinks.png": "/Snacks-and-All/static/media/drinks.23f64b659765ccb80c52.png",
-    "static/media/chocolate.png": "/Snacks-and-All/static/media/chocolate.d9d2268c736f9467d5c9.png",
-    "static/media/successfulOrder.png": "/Snacks-and-All/static/media/successfulOrder.3d84adc41b680999ec86.png",
-    "static/media/securePaymentLogo.svg": "/Snacks-and-All/static/media/securePaymentLogo.d0f8eb2d44e24d5afe35d9ec79b187c8.svg",
-    "static/media/visaLogo.svg": "/Snacks-and-All/static/media/visaLogo.9162c0bf1653a1a487a83d2f651fe1ce.svg",
-    "static/media/mastercardLogo.svg": "/Snacks-and-All/static/media/mastercardLogo.6095e1f6f50690cead85c72fa816b474.svg",
-    "index.html": "/Snacks-and-All/index.html",
-    "main.27c73850.css.map": "/Snacks-and-All/static/css/main.27c73850.css.map",
-    "main.aa2a0bcc.js.map": "/Snacks-and-All/static/js/main.aa2a0bcc.js.map",
-    "453.419a5d54.chunk.js.map": "/Snacks-and-All/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/Snacks-and-All-Client/static/css/main.27c73850.css",
+    "main.js": "/Snacks-and-All-Client/static/js/main.e37c1ce0.js",
+    "static/js/453.419a5d54.chunk.js": "/Snacks-and-All-Client/static/js/453.419a5d54.chunk.js",
+    "static/media/sliderImage2.jpg": "/Snacks-and-All-Client/static/media/sliderImage2.f1cad6cf99d082c9810b.jpg",
+    "static/media/sliderImage3.png": "/Snacks-and-All-Client/static/media/sliderImage3.0d7e3804023781a03ea8.png",
+    "static/media/sliderImage1.png": "/Snacks-and-All-Client/static/media/sliderImage1.a097e696315d6d562831.png",
+    "static/media/sliderImage4.jpg": "/Snacks-and-All-Client/static/media/sliderImage4.ed5c57f13e10c0547d6e.jpg",
+    "static/media/chips.png": "/Snacks-and-All-Client/static/media/chips.ea1271103a6dccf6846a.png",
+    "static/media/noProducts.gif": "/Snacks-and-All-Client/static/media/noProducts.d107966e6be89c69e455.gif",
+    "static/media/cookies.png": "/Snacks-and-All-Client/static/media/cookies.19d87334a55c97cda2fd.png",
+    "static/media/candy.png": "/Snacks-and-All-Client/static/media/candy.906a005a15a146a4dbb4.png",
+    "static/media/drinks.png": "/Snacks-and-All-Client/static/media/drinks.23f64b659765ccb80c52.png",
+    "static/media/chocolate.png": "/Snacks-and-All-Client/static/media/chocolate.d9d2268c736f9467d5c9.png",
+    "static/media/successfulOrder.png": "/Snacks-and-All-Client/static/media/successfulOrder.3d84adc41b680999ec86.png",
+    "static/media/securePaymentLogo.svg": "/Snacks-and-All-Client/static/media/securePaymentLogo.d0f8eb2d44e24d5afe35d9ec79b187c8.svg",
+    "static/media/visaLogo.svg": "/Snacks-and-All-Client/static/media/visaLogo.9162c0bf1653a1a487a83d2f651fe1ce.svg",
+    "static/media/mastercardLogo.svg": "/Snacks-and-All-Client/static/media/mastercardLogo.6095e1f6f50690cead85c72fa816b474.svg",
+    "index.html": "/Snacks-and-All-Client/index.html",
+    "main.27c73850.css.map": "/Snacks-and-All-Client/static/css/main.27c73850.css.map",
+    "main.e37c1ce0.js.map": "/Snacks-and-All-Client/static/js/main.e37c1ce0.js.map",
+    "453.419a5d54.chunk.js.map": "/Snacks-and-All-Client/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27c73850.css",
-    "static/js/main.aa2a0bcc.js"
+    "static/js/main.e37c1ce0.js"
   ]
 }
