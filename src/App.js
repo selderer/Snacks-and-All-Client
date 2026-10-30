@@ -18,7 +18,7 @@ const theme = createTheme({
 const App = () => {
     return (
         <MantineProvider theme={theme}>
-            <BrowserRouter>
+            <BrowserRouter basename="/Snacks-and-All-Client">
                 <Root />
                 <ScrollToTop />
             </BrowserRouter>
