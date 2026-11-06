@@ -22,8 +22,6 @@ Before writing any code, I designed the whole project myself in **Figma**. The f
 
 **The brand look:** a deep-purple palette (8 shades from `#10002B` to `#E0AAFF`) with a neutral gray scale and white. It gives the shop a playful but clean feel, and the shades are used consistently for buttons, the footer, hover states and highlights.
 
-![Figma style guide](docs/screenshots/Figma_STYLE_GUIDE.png)
-
 👉 **[Open the full design in Figma](https://www.figma.com/design/58O13LCNhqwttjIzSQmPg0/Snacks-and-All?node-id=0-1&t=vtbNRfRImjW0bvlE-1)**
 
 ---
@@ -54,18 +52,18 @@ Slideshow banner, best sellers, favourite categories and a hand-picked "Exotic s
 ### Category page (Drinks)
 Products in the selected Category page.
 
-![Drinks](docs/screenshots/Snacks_and_All_ALL_DRINKS.png)
+![Drinks](docs/screenshots/Snacks_and_DRINKS.png)
 
 ### Live search
 ![Search](docs/screenshots/Snacks_and_All_SEARCH.png)
 
 ### Shopping cart
-![Cart](docs/screenshots/Snacks_and_All_ALL_CART.png)
+![Cart](docs/screenshots/Snacks_and_All_CART.png)
 
 ### Checkout (2 steps)
 | Step 1: Delivery details | Step 2: Card details |
 |---|---|
-| ![Checkout step 1](docs/screenshots/Snacks_and_All_ALL_CHECKOUT.png) | ![Checkout step 2](docs/screenshots/Snacks_and_All_ALL_CHECKOUT_STEP2.png) |
+| ![Checkout step 1](docs/screenshots/Snacks_and_All_CHECKOUT.png) | ![Checkout step 2](docs/screenshots/Snacks_and_ALL_CHECKOUT_STEP2.png) |
 
 ### Admin login
 ![Admin login](docs/screenshots/Snacks_and_All_ADMIN_LOGIN.png)
