@@ -85,7 +85,7 @@ const ProductCard = ({
     return (
         <div onClick={handleCardClick} className={cn(classes.productCardSmall, classes.productCard)}>
             <div className={classes.productCardImageContainerSmall}>
-                <img src={`/upload/${image}`} alt="Product" className={classes.productCardImage} />
+                <img src={`/Snacks-and-All-Client/upload/${image}`} alt="Product" className={classes.productCardImage} />
             </div>
             <div className={cn(classes.productCardInfoWrapperSmall, classes.productCardInfoWrapper)}>
                 <div className={cn(classes.productCardInfo)}>

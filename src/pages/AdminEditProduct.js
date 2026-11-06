@@ -70,7 +70,7 @@ const AdminEditProduct = () => {
                                                 }
                                             >
                                                 <div className={productCardClasses.productCardImageContainerSmall}>
-                                                    <img src={`/upload/${product.image}`} alt="Product" className={productCardClasses.productCardImage} />
+                                                    <img src={`/Snacks-and-All-Client/upload/${product.image}`} alt="Product" className={productCardClasses.productCardImage} />
                                                 </div>
                                                 <div className={cn(productCardClasses.productCardInfoWrapperSmall, productCardClasses.productCardInfoWrapper)}>
                                                     <div className={cn(productCardClasses.productCardInfo)}>

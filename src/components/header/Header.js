@@ -143,7 +143,7 @@ const Header = ({
                                                   className={classes.searchProduct}
                                               >
                                                   <div className={classes.searchProductImage}>
-                                                      <img src={`/upload/${product.image}`} alt="Product" />
+                                                      <img src={`/Snacks-and-All-Client/upload/${product.image}`} alt="Product" />
                                                   </div>
                                                   <div className={classes.searchProductInfo}>
                                                       <span className={classes.searchProductTitle}>

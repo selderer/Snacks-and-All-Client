@@ -58,7 +58,7 @@ const CartProductCard = ({
     return (
         <div onClick={handleCardClick} className={classes.cartProductCartContainer}>
             <div className={classes.cartProductCardImageWrapper}>
-                <img className={classes.cartProductCardImage} src={`/upload/${product.image}`} alt="Product" />
+                <img className={classes.cartProductCardImage} src={`/Snacks-and-All-Client/upload/${product.image}`} alt="Product" />
             </div>
             <div className={classes.cartProductCardInfoWrapper}>
                 <div>

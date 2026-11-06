@@ -92,7 +92,7 @@ const Product = () => {
                                     </div>
                                 )
                             }
-                            <img src={`/upload/${product.image}`} alt="Product" className={classes.productInfoImage} />
+                            <img src={`/Snacks-and-All-Client/upload/${product.image}`} alt="Product" className={classes.productInfoImage} />
                         </div>
                         <div className={classes.productInfo}>
                             <div className={classes.productInfoTop}>

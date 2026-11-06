@@ -86,7 +86,7 @@ const ProductForm = ({
                     {
                         id && (
                             <div className={classes.productFormImage}>
-                                <img src={`/upload/${image}`} alt="Product" />
+                                <img src={`/Snacks-and-All-Client/upload/${image}`} alt="Product" />
                             </div>
                         )
                     }
