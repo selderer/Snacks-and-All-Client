@@ -52,7 +52,7 @@ Slideshow banner, best sellers, favourite categories and a hand-picked "Exotic s
 ### Category page (Drinks)
 Products in the selected Category page.
 
-![Drinks](docs/screenshots/Snacks_and_DRINKS.png)
+![Drinks](docs/screenshots/Snacks_and_All_DRINKS.png)
 
 ### Live search
 ![Search](docs/screenshots/Snacks_and_All_SEARCH.png)
@@ -63,7 +63,7 @@ Products in the selected Category page.
 ### Checkout (2 steps)
 | Step 1: Delivery details | Step 2: Card details |
 |---|---|
-| ![Checkout step 1](docs/screenshots/Snacks_and_All_CHECKOUT.png) | ![Checkout step 2](docs/screenshots/Snacks_and_ALL_CHECKOUT_STEP2.png) |
+| ![Checkout step 1](docs/screenshots/Snacks_and_All_CHECKOUT.png) | ![Checkout step 2](docs/screenshots/Snacks_and_All_CHECKOUT_STEP2.png) |
 
 ### Admin login
 ![Admin login](docs/screenshots/Snacks_and_All_ADMIN_LOGIN.png)
